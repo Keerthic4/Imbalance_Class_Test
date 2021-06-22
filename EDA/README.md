@@ -1,4 +1,4 @@
-# T100: Perform EDA on imbalance data
+# Perform EDA on imbalance data
 
 ## Analysis Goal
 Perform Exploratory Data Analysis (EDA) on the given dataset.
