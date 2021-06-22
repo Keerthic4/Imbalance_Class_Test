@@ -1,0 +1,24 @@
+2021-06-22 13:02:29,832 *******Creating test and train data sets*******
+2021-06-22 13:02:36,899 *******Initializing the Random Forest model*******
+2021-06-22 13:02:37,078 *******Optimizing the Hyper Parameters*******
+2021-06-22 13:02:37,136 build_posterior_wrapper took 0.009799 seconds
+2021-06-22 13:02:37,136 TPE using 0 trials
+2021-06-22 13:04:42,825 build_posterior_wrapper took 0.007223 seconds
+2021-06-22 13:04:42,825 TPE using 1/1 trials with best loss -0.724268
+2021-06-22 13:08:16,247 build_posterior_wrapper took 0.010016 seconds
+2021-06-22 13:08:16,247 TPE using 2/2 trials with best loss -0.800019
+2021-06-22 13:28:07,183 build_posterior_wrapper took 0.006008 seconds
+2021-06-22 13:28:07,183 TPE using 3/3 trials with best loss -0.847659
+2021-06-22 13:45:01,871 build_posterior_wrapper took 0.004065 seconds
+2021-06-22 13:45:01,871 TPE using 4/4 trials with best loss -0.862135
+2021-06-22 13:49:16,322 build_posterior_wrapper took 0.001074 seconds
+2021-06-22 13:49:16,322 TPE using 5/5 trials with best loss -0.862135
+2021-06-22 13:54:17,688 build_posterior_wrapper took 0.009969 seconds
+2021-06-22 13:54:17,688 TPE using 6/6 trials with best loss -0.862135
+2021-06-22 13:56:34,462 build_posterior_wrapper took 0.006439 seconds
+2021-06-22 13:56:34,465 TPE using 7/7 trials with best loss -0.862135
+2021-06-22 14:09:52,425 build_posterior_wrapper took 0.009521 seconds
+2021-06-22 14:09:52,425 TPE using 8/8 trials with best loss -0.897929
+2021-06-22 14:13:23,409 build_posterior_wrapper took 0.004111 seconds
+2021-06-22 14:13:23,409 TPE using 9/9 trials with best loss -0.897929
+2021-06-22 14:17:05,919 *******HyperOptimization Finished*******
