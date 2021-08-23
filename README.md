@@ -5,7 +5,7 @@ Development of production ready Machine Learning  Models for Binary Classificati
 In this project, Imbalance dataset is analyzed in several steps:
 
 * Data cleaning and preprocessing using Preprocess module.
-* Fitting XGBoost, SVM, randomforest and LightGBM models, and using Hyperopt.
+* Fitting XGBoost, SVM, randomforest and LightGBM models, and using Hyperopt and Optuna.
 * Unit testing and integration testing of all the developed libraries using pytest.
 * Comparing of different fitted models and optimization methods against each other and AutoML of GCP.
 * Comparing the results with previous papers.
